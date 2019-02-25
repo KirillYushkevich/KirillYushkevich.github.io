@@ -23,6 +23,9 @@ I enjoy reading alot things.My favorite book is Ray Bradbury's The Martian Chron
 ## Learning and Code stuff
 
 [Github](https://github.com/KirillYushkevich)
+
 [Codewars](https://www.codewars.com/users/KirillYushkevich)
+
 [Kata 8](https://github.com/KirillYushkevich/Kata8)
+
 [Kata 13](https://github.com/KirillYushkevich/Kata13)
