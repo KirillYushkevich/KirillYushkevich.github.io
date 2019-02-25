@@ -29,3 +29,31 @@ I enjoy reading alot things.My favorite book is Ray Bradbury's The Martian Chron
 [Kata 8](https://github.com/KirillYushkevich/Kata8)
 
 [Kata 13](https://github.com/KirillYushkevich/Kata13)
+
+[PadawansTask1](https://github.com/KirillYushkevich/PadawansTask1)
+
+[PadawansTask2](https://github.com/KirillYushkevich/PadawansTask2)
+
+[PadawansTask3](https://github.com/KirillYushkevich/PadawansTask3)
+
+[PadawansTask4](https://github.com/KirillYushkevich/PadawansTask4)
+
+[PadawansTask5](https://github.com/KirillYushkevich/PadawansTask5)
+
+[PadawansTask6](https://github.com/KirillYushkevich/PadawansTask6)
+
+[PadawansTask7](https://github.com/KirillYushkevich/PadawansTask7)
+
+[PadawansTask8](https://github.com/KirillYushkevich/PadawansTask8)
+
+[PadawansTask9](https://github.com/KirillYushkevich/PadawansTask9)
+
+[PadawansTask10](https://github.com/KirillYushkevich/PadawansTask10)
+
+[PadawansTask11](https://github.com/KirillYushkevich/PadawansTask11)
+
+[PadawansTask12](https://github.com/KirillYushkevich/PadawansTask12)
+
+[PadawansTask13](https://github.com/KirillYushkevich/PadawansTask13)
+
+[PadawansTask15](https://github.com/KirillYushkevich/PadawansTask15)
