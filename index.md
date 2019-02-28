@@ -57,3 +57,5 @@ I enjoy reading alot things.My favorite book is Ray Bradbury's The Martian Chron
 [PadawansTask13](https://github.com/KirillYushkevich/PadawansTask13)
 
 [PadawansTask15](https://github.com/KirillYushkevich/PadawansTask15)
+
+[The first 20 numbers in the sequence](https://github.com/KirillYushkevich/First20numbers)
