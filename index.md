@@ -1,7 +1,6 @@
 ## About me
 
-I am student of **BSUIR** faculty **Informatic Technology and Progrmming** average mark for the last semester 7.
-I enjoy finding usage to my programming skills on practice.
+I am student of **BSUIR** faculty **Informatic Technology and Progrmming** average mark for the last semester 7.The idea of learning programming came to me when i understand that i want to create my own game.
 
 ### Interests
 
@@ -9,16 +8,24 @@ _My personal interests include_:
 
 # Math
 
+I enjoy sloving math/high math problems.I am inspired by the works of Ramanujan.
 
-I enjoy watching Youtube High Math educational videos and solve some presented problems
-## Programming
+# Programming
 
+My by far best programming language is c#.But i also have experience with python and java. Most experienced c# technologies are Xamarin and WPF
 
-Most of non studing time i try to spent on improving and writing code
+# Classical Litarature
 
-### Classical Litarature
+I fond of reading classical literature.My collections contains more then 100 books.Favorite author is Ray Bradbury
 
-I enjoy reading alot.My favorite book is Ray Bradbury's The Martian Chronicles
+# Asian culture
+
+Right now i am trying to make a move
+forward on my understanding Japanese and Chinese culture.
+
+# Video Games
+
+I spend a lot of time analyzing video game market,trying to find insparation to create my own game.
 
 ## Learning and Code stuff
 
